@@ -58,30 +58,58 @@
 
 /* Any custom CSS below here */
 
-.wrapper_d880dc noChat_d880dc video_d880dc {
-  opacity: 80%;
+.wrapper_d880dc .noChat_d880dc .video_d880dc {
+  opacity: 80% !important;
 }
 
-.wrapper_d880dc video_d880dc {
-  opacity: 80%;
+.wrapper_d880dc .video_d880dc {
+  opacity: 80% !important;
 }
 
-.chat_a7d72e {
-  opacity: 70%;
+.overlayContainer_ba4b17  {
+  opacity: 100% !important;
 }
 
+/* Text Chat Opacity */
+
+.subtitleContainer_a7d72e {
+  opacity: 97% !important;
+}
+
+.content_a7d72e {
+  opacity: 97% !important;
+}
+
+.chatContent_a7d72e{
+  opacity: 97% !important;
+}
+
+/* Text Chat End */
+
+/* Call container */
+.callContainer_d880dc {
+  opacity: 97% !important;
+}
+
+.overlayContainer_ba4b17 {
+  opacity: 100% !important;
+}
+
+/* Call container end */
+
+/* Main Menu */
 .container_c2739c {
-  opacity: 70%;
+  opacity: 70% !important;
 }
 
 .shop_e77fa3 {
-  opacity: 70%;
+  opacity: 70% !important;
 }
 
 .applicationStore_cecc86 {
-  opacity: 70%;
+  opacity: 70% !important;
 }
 
-.biteSizeInner_c69a7b userProfileInner_c69a7b biteSizeInnerThemed_c69a7b {
-  opacity: 30%;
+.biteSizeInner_c69a7b .userProfileInner_c69a7b .biteSizeInnerThemed_c69a7b {
+  opacity: 30% !important;
 }
