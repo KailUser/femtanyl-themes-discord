@@ -1,25 +1,25 @@
 
 /**
- * @name DINNER! (FEMTANYL!)
+ * @name KATAMARI (FEMTANYL)
  * @author Syirezz
  * @version 1.0.0
- * @description Put him in a rot cage
+ * @description Bruises on my neck, just a doll of flesh
 */
 
 @import url('https://maendisease.github.io/Solana/Solana.css');
+@import url('https://maendisease.github.io/BetterDiscordStuff/css/bdAddonMini.css');
 @import url('https://discordstyles.github.io/Addons/windows-titlebar.css');
 
 /* @import url('https://maendisease.github.io/BetterDiscordStuff/Themes/Solana/addon/mac-titlebar.css');  */
-@import url('https://maendisease.github.io/BetterDiscordStuff/css/bdAddonMini.css');
 
 :root {
-  --accent-hue: 80;
+  --accent-hue: -128;
   --accent-saturation: 100%;
   --accent-brightness: 50%;
   --background-accent-hue: 213;
   --background-accent-saturation: 100%;
   --background-accent-brightness: 50%;
-  --background-image: url('https://i.imgur.com/C0ppmTG.png');
+  --background-image: url('https://i.imgur.com/AvIGgJK.png');
   --background-image-position: center;
   --background-image-size: cover;
   /* --background-image-blur: 5px; */
@@ -60,6 +60,7 @@
 }
 
 /* Any custom CSS below here */
+
 .wrapper_d880dc .noChat_d880dc .video_d880dc {
   opacity: 80% !important;
 }
@@ -94,7 +95,7 @@
 }
 
 .overlayContainer_ba4b17 {
-  opacity: 1 !important;
+  opacity: 100% !important;
 }
 
 /* Call container end */
